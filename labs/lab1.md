@@ -1,0 +1,1 @@
+The angle is $\theta = \arccos(x)$
