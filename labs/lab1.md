@@ -1,3 +1,7 @@
+# Lab 1: Forward Kinematics
+
+Goals
+
 We define the end-effector position as:
 
 $$
